@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0; /* Цвет фона */
+}
+
+a {
+    font-size: 36px;
+    font-family: 'Arial', Times, serif;
+    text-decoration: none;
+    color: red;
+    padding: 5px 20px;
+    background-color: transparent; /* Белый цвет фона */
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 0 2px white, 0 0 0 4px rgba(0, 0, 0, 2);
+    border-radius: 0;
+    position: fixed;
+    right: 5%;
+    position: fixed;
+    top: 75%;
+}
+body {
+    background-image: url('https://sneg.top/uploads/posts/2023-03/1678313155_sneg-top-p-krasivii-fon-shakhmati-krasivo-14.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: red;
+    position: fixed;
+    top: 0%;
+}
